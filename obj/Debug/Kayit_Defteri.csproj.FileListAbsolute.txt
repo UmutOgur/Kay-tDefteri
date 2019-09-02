@@ -1,0 +1,34 @@
+C:\Users\UMUT\Desktop\C# Örnekleri\Örnekler\Örnek2\Kayit_Defteri\bin\Debug\Kayit_Defteri.exe.config
+C:\Users\UMUT\Desktop\C# Örnekleri\Örnekler\Örnek2\Kayit_Defteri\bin\Debug\Kayit_Defteri.exe
+C:\Users\UMUT\Desktop\C# Örnekleri\Örnekler\Örnek2\Kayit_Defteri\bin\Debug\Kayit_Defteri.pdb
+C:\Users\UMUT\Desktop\C# Örnekleri\Örnekler\Örnek2\Kayit_Defteri\obj\Debug\Kayit_Defteri.csprojResolveAssemblyReference.cache
+C:\Users\UMUT\Desktop\C# Örnekleri\Örnekler\Örnek2\Kayit_Defteri\obj\Debug\Kayit_Defteri.Form1.resources
+C:\Users\UMUT\Desktop\C# Örnekleri\Örnekler\Örnek2\Kayit_Defteri\obj\Debug\Kayit_Defteri.Properties.Resources.resources
+C:\Users\UMUT\Desktop\C# Örnekleri\Örnekler\Örnek2\Kayit_Defteri\obj\Debug\Kayit_Defteri.csproj.GenerateResource.Cache
+C:\Users\UMUT\Desktop\C# Örnekleri\Örnekler\Örnek2\Kayit_Defteri\obj\Debug\Kayit_Defteri.exe
+C:\Users\UMUT\Desktop\C# Örnekleri\Örnekler\Örnek2\Kayit_Defteri\obj\Debug\Kayit_Defteri.pdb
+C:\Users\UMUT\Desktop\C# Örnekleri\Örnekler\Örnek2\Kayit_Defteri\obj\Debug\Kayit_Defteri.FrmYeniKayit.resources
+C:\Users\UMUT\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\bin\Debug\Kayit_Defteri.exe.config
+C:\Users\UMUT\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.exe
+C:\Users\UMUT\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.pdb
+C:\Users\UMUT\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\bin\Debug\Kayit_Defteri.exe
+C:\Users\UMUT\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\bin\Debug\Kayit_Defteri.pdb
+C:\Users\UMUT\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.csprojResolveAssemblyReference.cache
+C:\Users\UMUT\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.Form1.resources
+C:\Users\UMUT\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.FrmDuzenle.resources
+C:\Users\UMUT\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.FrmYeniKayit.resources
+C:\Users\UMUT\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.Properties.Resources.resources
+C:\Users\UMUT\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.csproj.GenerateResource.Cache
+C:\Users\UMUT\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.UygulamaHakkında.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\bin\Debug\Kayit_Defteri.exe.config
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.pdb
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\bin\Debug\Kayit_Defteri.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\bin\Debug\Kayit_Defteri.pdb
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.csprojResolveAssemblyReference.cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.Form1.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.FrmDuzenle.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.FrmYeniKayit.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.Properties.Resources.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.UygulamaHakkında.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Kayit_Defteri\obj\Debug\Kayit_Defteri.csproj.GenerateResource.Cache
